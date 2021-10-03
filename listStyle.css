@@ -1,0 +1,46 @@
+SongList {
+    display: block;
+    border-bottom: 4px solid #5d9caf;
+    background-color:#ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+Header {
+    display: block;
+    font-size: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 1rem;
+}
+
+Song {
+    display: block;
+    background-color: beige;
+    padding: 2rem;
+}
+
+Title {
+    display: block;
+    text-decoration: underline overline;
+    font-size: 2.5rem;
+}
+
+Artist {
+    display: block;
+    font-size: 2rem;
+    padding-left: 2rem;
+}
+
+Genre {
+    display: block;
+    font-size: 2rem;
+    padding-left: 2rem;
+}
+
+YearReleased {
+    display: block;
+    font-size: 2rem;
+    padding-left: 2rem;
+}
