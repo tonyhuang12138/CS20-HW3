@@ -1,60 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="listSyle.css"?>
+<?xml-stylesheet type="text/css" href="listStyle.css"?>
 <SongList>
-    <Genre name="Indie">
-        <Song>
-            <Title>creep</Title>
-            <Artist>mxmtoon</Artist>
-            <YearReleased>2021</YearReleased>
-        </Song>
-        <Song>
-            <Title>Sofia</Title>
-            <Artist>mxmtoon</Artist>
-            <YearReleased>2020</YearReleased>
-        </Song>
-        <Song>
-            <Title>bad idea</Title>
-            <Artist>Chloe Moriondo</Artist>
-            <YearReleased>2019</YearReleased>
-        </Song>
-    </Genre>
-    <Genre name="Bossa Nova">
-        <Song>
-            <Title>Be With Me</Title>
-            <Artist>Lisa Ono</Artist>
-            <YearReleased>2000</YearReleased>
-        </Song>
-        <Song>
-            <Title>Pretty World</Title>
-            <Artist>Lisa Ono</Artist>
-            <YearReleased>2000</YearReleased>
-        </Song>
-        <Song>
-            <Title>All The Way</Title>
-            <Artist>Lisa Ono</Artist>
-            <YearReleased>2000</YearReleased>
-        </Song>
-        <Song>
-            <Title>Yesterday</Title>
-            <Artist>Lisa Ono</Artist>
-            <YearReleased>2000</YearReleased>
-        </Song>
-    </Genre>
-    <Genre name="Jazz">
-        <Song>
-            <Title>Mood Indigo</Title>
-            <Artist>Nina Simone</Artist>
-            <YearReleased></YearReleased>
-        </Song>
-        <Song>
-            <Title>Don't Smoke in Bed</Title>
-            <Artist>Nina Simone</Artist>
-            <YearReleased></YearReleased>
-        </Song>
-        <Song>
-            <Title>He Needs Me</Title>
-            <Artist>Nina Simone</Artist>
-            <YearReleased></YearReleased>
-        </Song>
-    </Genre>
+    <Header>Song List</Header>
+    <Song>
+        <Title>creep</Title>
+        <Artist>mxmtoon</Artist>
+        <Genre>Indie</Genre>
+        <YearReleased>2021</YearReleased>
+    </Song>
+    <Song>
+        <Title>Sofia</Title>
+        <Artist>mxmtoon</Artist>
+        <Genre>Indie</Genre>
+        <YearReleased>2020</YearReleased>
+    </Song>
+    <Song>
+        <Title>bad idea</Title>
+        <Artist>Chloe Moriondo</Artist>
+        <Genre>Indie</Genre>
+        <YearReleased>2019</YearReleased>
+    </Song>
+    <Song>
+        <Title>Be With Me</Title>
+        <Artist>Lisa Ono</Artist>
+        <Genre>Bossa Nova</Genre>
+        <YearReleased>2000</YearReleased>
+    </Song>
+    <Song>
+        <Title>Pretty World</Title>
+        <Artist>Lisa Ono</Artist>
+        <Genre>Bossa Nova</Genre>
+        <YearReleased>2000</YearReleased>
+    </Song>
+    <Song>
+        <Title>All The Way</Title>
+        <Artist>Lisa Ono</Artist>
+        <Genre>Bossa Nova</Genre>
+        <YearReleased>2000</YearReleased>
+    </Song>
+    <Song>
+        <Title>Yesterday</Title>
+        <Artist>Lisa Ono</Artist>
+        <Genre>Bossa Nova</Genre>
+        <YearReleased>2000</YearReleased>
+    </Song>
+    <Song>
+        <Title>Mood Indigo</Title>
+        <Artist>Nina Simone</Artist>
+        <Genre>Jazz</Genre>
+        <YearReleased>1958</YearReleased>
+    </Song>
+    <Song>
+        <Title>Don't Smoke in Bed</Title>
+        <Artist>Nina Simone</Artist>
+        <Genre>Jazz</Genre>
+        <YearReleased>1958</YearReleased>
+    </Song>
+    <Song>
+        <Title>He Needs Me</Title>
+        <Artist>Nina Simone</Artist>
+        <Genre>Jazz</Genre>
+        <YearReleased>1958</YearReleased>
+    </Song>
 </SongList>
